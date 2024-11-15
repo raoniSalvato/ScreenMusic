@@ -11,13 +11,13 @@ Esta é uma aplicação em Java para gerenciar artistas e músicas. O sistema pe
  
  ## Funcionalidades
 - Cadastro de Artistas
- Permite cadastrar artistas com nome e tipo (solo, dupla, banda).
+- Permite cadastrar artistas com nome e tipo (solo, dupla, banda).
 
 - Cadastro de Músicas
- Associar músicas aos artistas previamente cadastrados.
+- Associar músicas aos artistas previamente cadastrados.
   
 - Listagem de Músicas
- Lista todas as músicas cadastradas agrupadas por artistas.
+- Lista todas as músicas cadastradas agrupadas por artistas.
   
 - Busca de Músicas por Artista
- Permite buscar músicas associadas a um artista específico.
+- Permite buscar músicas associadas a um artista específico.
